@@ -1,0 +1,74 @@
+@media only screen and (min-width:1024px) {
+	.col-lg-5 { width: 20%; }
+	.crproduct-iterm:nth-child(5n+1) { clear: both; }
+}
+@media only screen and (max-width:1170px) {
+	.container { width: 100%; }
+	#navbar .menu-top ul > li > a { font-size: 14px; }
+}
+@media only screen and (max-width:1023px)  and (min-width:768px) {
+	.crproduct-iterm:nth-child(4n+1) { clear: both; }
+	.lienhe_tuvan .flex-center { display: block; }
+	.product_list_widget li { width: 100%; }
+	.dns_recent_entries .crpost-iterm .post-title { font-size: 12px; }
+	.dns_recent_entries .crpost-iterm .post_content { display: none; }
+}
+@media only screen and (max-width:992px) {
+	#navbar .menu-top ul > li > a { font-size: 12px; padding: 0 8px; }
+	.news_byid-iterm:nth-child(3n+1),
+	.archive_list .iterm-select:nth-child(3n+1) { clear: none; }
+	.news_byid-iterm:nth-child(2n+1),
+	.archive_list .iterm-select:nth-child(2n+1) { clear: both; }
+}
+@media only screen and (max-width:767px) {
+	.mblock { display: block; }
+	.header-logo { text-align: center; }
+	.crproduct-iterm:nth-child(3n+1) { clear: both; }
+	.dns-owl_list.dns-list_product .more_link { text-align: center; }
+	#header .flex-center { display: -webkit-flex; -webkit-align-items: center; display: flex; align-items: center; }
+	.navbar-header { float: right; display: inline-block !important; width: auto; min-width: 132px; }
+	.mobile-search { float: left; text-align: right; font-size: 10px; margin-right: 20px; cursor: pointer; }
+	.mobile-search .fa { font-size: 20px; font-weight: bold; }
+	.mobile-search >span { display: block; }
+	.mcart_iterms a { display: block; }
+	.mcart_iterms .iterm { position: absolute; top: 0px; display: inline-block; border-radius: 100%; background-color: #ffd700; color: #000; font-size: 10px; padding: 0; width: 15px; height: 15px; text-align: center; right: -5px; }
+	.mcart_iterms { display: inline-block; position: relative; margin-right: 20px; }
+	.mcart_iterms span.fa { display: inline-block; float: left; padding: 0; vertical-align: middle; font-size: 30px; color: #000; }
+	.header-logo .pl-logo { min-width: 130px; }
+	.navbar-toggle { border: none; padding: 0; margin: 0; }
+	.navbar-toggle .mtitle { font-weight: normal; text-transform: uppercase; font-size: 12px; top: -4px; display: inline-block; position: relative; }
+	.navbar-toggle .icon-bar { display: block; width: 30px; height: 4px; border-radius: 1px; margin: 0 auto; background-color: #000; }
+	.product_list_widget li, .woocommerce .related_products .crproduct-iterm { width: 33.33% !important; clear: none; }
+	.woocommerce .related_products .crproduct-iterm:nth-child(5) { display: none; }
+	.product_list_widget li:nth-child(2n+1) { clear: none; }
+	.product_list_widget li:nth-child(3n+1) { clear: both; }
+	.news_recent_posts { display: inline-block; }
+	.news_recent_posts .crpost-iterm { width: 50%; float: left; }
+	.group_right_info{
+		padding: 15px;
+		background: #fef8ec;
+		margin-top: 15px;
+		color: #000;
+		border: solid 2px #eec97e;
+		border-radius: 3px;
+	}
+}
+@media only screen and (max-width:640px) { }
+@media only screen and (max-width:480px) {
+	.crproduct-iterm:nth-child(3n+1) { clear: none; }
+	.crproduct-iterm:nth-child(2n+1) { clear: both; }
+	.product_list_widget li, .woocommerce .related_products .crproduct-iterm { width: 50% !important; clear: none; }
+	.news_recent_posts .crpost-iterm { width: 100%; float: none; }
+	.product_list_widget li:nth-child(3n+1) { clear: none; }
+	.woocommerce .related_products .crproduct-iterm:nth-child(4) { display: block; }
+	.product_list_widget li:nth-child(2n+1), .woocommerce .related_products .crproduct-iterm:nth-child(2n+1) { clear: both; }
+	.dns-owl_list .owl-nav { top: auto; bottom: -35px; }
+	.dns-owl_list.dns-list_post .more_link, .dns-owl_list .more_link { top: auto; bottom: -35px; }
+	.dns-owl_list.dns-list_post .owl-nav { top: auto; bottom: -50px; }
+	.dns-list_product .dns-crpost_wp, .dns-owl_list.dns-list_post .dns-crpost_wp { margin-bottom: 35px; }
+	.group-title { padding-right: 0; }
+	.col-xs-full { width: 100% }
+	.col-xxs-6 { width: 50%; }
+	.group-title .block-title { font-size: 16px; }
+	.flex-center { display: block; }
+}
