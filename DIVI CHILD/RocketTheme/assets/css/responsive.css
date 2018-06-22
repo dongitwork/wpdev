@@ -1,0 +1,92 @@
+@media only screen and (min-width:768px) {
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(4n):after, .rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(-n+4):before { display: none; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm { width: 25%; }
+}
+@media only screen and (min-width:1000px) {
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(5n):after, .rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(-n+5):before { display: none; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm { width: 20%; }
+	.rkt-content-maps .col-fullwidth .rkt-inner-maxwidth >.et_pb_module { max-width: 560px; float: right; width: 100%; }
+	.rkt-bog-wp .et_pb_column { margin: 0; }
+	.rkt-bog-wp .et_pb_column.col-first { width: 60%; }
+	.rkt-bog-wp .et_pb_column.col-last { width: 40%; }
+	.rkt-bog-wp .rkt_blogs_list { padding-right: 60px; }
+	.full-width_tt .tt_full-slider .owl-item { max-width: 505px; }
+}
+@media only screen and (min-width:1200px) {
+	.full-width_tt .tt_full-slider .testimonial_wp .tt_inner .container { margin-right: -170px; float: right; position: relative; }
+}
+@media only screen and (min-width:1800px) {
+	.rkt_project_popup .rkt_project_popup_inner { max-width: 50%; border-radius: 50px; }
+	.rkt_project_popup .rkt_project_popup_inner .project_slider_inner { max-width: 100%; }
+	.rkt_proect_next-pre a { width: 90px; height: 90px; }
+	.rkt_proect_next-pre a>span { font-size: 45px; line-height: 90px; }
+	#pps_nav [class*="owl-"]:hover, #pps_nav [class*="owl-"] { font-size: 40px; }
+}
+@media only screen and (max-width:1200px) {
+	.container, .et_pb_row { width: 100%; padding-left: 15px !important; padding-right: 15px !important; }
+	.full-width_tt .tt_full-slider .testimonial_wp .tt_inner .container { padding-right: 0 !important; width: 60%; float: right; }
+}
+@media only screen and (max-width:992px) {
+	.et_header_style_left .logo_container { max-width: 80%; }
+	#home-banner .et_pb_image img { position: relative; filter: grayscale(100%); opacity: 0.5; }
+	.et_pb_rkt_project_iterm .rkt-projects-title { padding-top: 0; }
+	.et_pb_section.et_pb_section_1, .et_pb_section.et_pb_section_2 { padding-top: 30px; padding-bottom: 30px; }
+	#main-header { padding: 15px 0; }
+	.et_header_style_split .mobile_menu_bar, .et_header_style_left .mobile_menu_bar { padding: 15px 0; }
+	.mobile_menu_bar:before { color: #fff; }
+	.bg_eclipes:after, .bg_eclipes_color:after { background-size: contain; }
+	.rkt_line:after { display: none; }
+	.et_pb_section.bg_eclipes_color, .et_pb_section.bg_eclipes { padding-bottom: 120px; }
+	.rkt_pricing_tables .rkt_pricing_tables_inner { text-align: center; }
+	.rkt_pricing_tables .rkt_pricing_tables_inner .rkt_pricing_iterm { float: none; margin: 5px; text-align: left; display: inline-block; max-width: 295px; width: 100%; border-radius: 10px !important; }
+	.rkt-colpadding.et_pb_row { padding-bottom: 0 !important; }
+	.et_pb_rkt_project_iterm .rkt-projects-tabs { max-width: 600px; margin: 0 auto 25px; }
+	.full-width_tt .full-width_tt-inner { background: url('') !important; padding: 45px 0 10px; }
+	.full-width_tt .tt_full-slider { position: relative; padding-bottom: 45px; }
+	.full-width_tt .full-width_tt-inner .tt_main-content { padding: 0; margin-right: 0; text-align: center; }
+	.rkt-product-iterm { max-width: 600px; margin: 0 auto; }
+	.full-width_tt .tt_full-slider .testimonial_wp .tt_inner .container { width: 100%; float: none; padding-right: 15px !important; }
+	.full-width_tt .tt_full-slider .testimonial_wp, .full-width_tt .tt_full-slider .testimonial_wp .tt_inner { display: block; }
+	.col-max-6 { max-width: 50%; padding-left: 15px; padding-right: 15px; }
+	#home-banner .et_pb_image.et_pb_image_0 { max-width: 600px; }
+	.rocket_wp_tabs .data_tab_content { padding-top: 15px; }
+}
+@media only screen and (max-width:767px) {
+	.rkt-cta-header.et_pb_promo .et_pb_module_header, .rkt-banner-header h1, .rkt-header-left h1 { font-size: 70px; letter-spacing: 5px; }
+	.logo_footer { margin-bottom: 20px; }
+	.col-max-6 { max-width: 50%; padding: 0 15px; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm { width: 33.33%; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(3n):after, .rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(-n+3):before { display: none; }
+	.rkt_proect_next-pre a { z-index: 9999999; left: 10px; }
+	.rkt_proect_next-pre a.nfnext { right: 10px; left: auto; }
+}
+@media only screen and (max-width:640px) {
+	.col-xxs-full { width: 100%; }
+	.rkt_blogs_list .rkt_blog-iterm .blog_iterm-inner, .rkt_blogs_list .rkt_blog-iterm .blog_iterm-inner .col-iterm, .rkt_blogs_list .rkt_blog-iterm .blog_iterm-inner .rkt-blog-image_mobile { display: block; }
+	.rkt_blogs_list .rkt_blog-iterm .blog_iterm-inner .rkt-blog-image_mobile img { max-height: 200px; width: auto; display: block; margin: 0 auto; }
+	.rkt_blogs_list .rkt_blog-iterm .blog_iterm-inner .rkt-blog-image { display: none; }
+	.rkt-banner-bg .et_pb_button.rkt-btn, .rkt-banner .et_pb_button.rkt-btn, .home-banner .rkt-btn { margin: 0 auto 10px; display: block !important; }
+	.home-banner .et_pb_row_0.et_pb_row { padding-top: 65px; padding-bottom: 0; }
+	.rkt_list_ict li { margin-bottom: 10px; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm { width: 50%; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(3n):after, .rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(-n+3):before { display: block; }
+	.rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(2n):after, .rkt_partners_grid .rkt_grid_inner .rkt_partner_iterm:nth-child(-n+2):before { display: none; }
+	.what_new_wp  .owl-nav [class*="owl-"] { left: 10px; }
+	.what_new_wp  .owl-nav .owl-next { left: auto; right: 10px; }
+	.rkt_project_popup{
+		overflow: scroll;
+	}
+	.rkt_proect_next-pre a{
+		position: static;
+		margin: 0 5px;
+	}
+}
+@media only screen and (max-width:480px) {
+	.col-max-6, .col-xs-full { width: 100%; max-width: 100%; }
+	#home-banner .rkt-home-follow li.rkt-line { width: 25px; margin: 14px 10px 14px 15px; }
+	.what_new_wp .owl-nav [class*="owl-"] { opacity: 0.5; }
+	.rkt-cta-header.et_pb_promo .et_pb_module_header, .rkt-header-left h1, .rkt-banner-header h1 { font-size: 50px; }
+	.full-width_tt .tt_full-slider .row_tt .row_tt_left { width: auto; }
+	.full-width_tt .tt_full-slider .ttiterm { padding: 15px 15px 0 15px; }
+	.full-width_tt .tt_full-slider .row_tt .row_tt_right { padding-bottom: 10px; }
+}

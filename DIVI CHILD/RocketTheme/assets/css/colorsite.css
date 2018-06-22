@@ -1,0 +1,163 @@
+.et_pb_button.rkt-btn.btn-color,
+.rkt-btn.btn-color,
+.et_pb_contact_submit.et_pb_button {
+	background: #0e1764 !important;
+	color: #fff !important;
+	background-image: linear-gradient(to right, #0e1764, #0155a3) !important
+}
+
+.et_pb_button.rkt-btn.btn-color:hover,
+.rkt-btn.btn-color:hover,
+.et_pb_contact_submit.et_pb_button:hover {
+	background-image: linear-gradient(to left, #0e1764, #0155a3) !important
+}
+
+.rkt-btn.btn-border {
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to right, #0e1764, #28a7fb) !important;
+	border: solid 2px #0155a3
+}
+
+.rocket_wp_tabs .data_tab_title .tab_title.active .icon_tab span {
+	background-image: linear-gradient(58deg, #186ded, #28a7fb)
+}
+
+.portfolio_wp .portfolio_author:before,
+.what_new_wp .whatnew_iterm  .event_bg:after {
+	background-image: linear-gradient(to right, #186ded, #28a7fb)
+}
+
+.rkt-product-iterm .et_pb_blurb_description .btn-read-more:after {
+	border: solid 1px #28a7fb;
+	color: #28a7fb;
+	-webkit-text-fill-color: #28a7fb
+}
+
+.what_new_wp .whatnew_iterm .wn_except .wn_more,
+.full-width_tt .tt_full-slider .ttiterm .job_company,
+.what_new_wp .owl-nav [class*="owl-"] {
+	color: #186ded !important
+}
+
+.rkt-tab_custom .et_pb_tabs_controls li.et_pb_tab_active a,
+.portfolio_wp .portfolio_author {
+	color: #28a7fb !important
+}
+
+.rkt-tab_custom .et_pb_tabs_controls li.et_pb_tab_active a {
+	border-color: #28a7fb !important
+}
+
+.rkt_team,
+.rkt-product-iterm {
+	border: 1px solid #28a7fb
+}
+
+#home-banner,
+#home_bg,
+#main-header,
+.rkt-banner-header {
+	background-image: linear-gradient(to right, #186ded, #28a7fb)
+}
+
+.rkt_icon_text>i,
+.rkt-left-icon .et_pb_module_header,
+.rkt-left-icon .et-pb-icon,
+.rkt-call_to_action .et_pb_module_header,
+.rkt_pricing_tables .rkt_pricing_iterm .rkt_pricing_header .rkt_price_wrap .rkt_price_group .big_price,
+.portfolio_wp .owl-nav [class*="owl-"]:hover i:before,
+.portfolio_wp .portfolio_title,
+.rkt-product-iterm .et_pb_blurb_description .btn-read-more,
+.et_pb_widget_area_left h4.widgettitle,
+#sidebar h4.widgettitle,
+h2.block-title {
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to right, #186ded, #28a7fb)
+}
+
+.rocket_wp_tabs .data_tab_title .icon_tab .et-pb-icon,
+.rocket_wp_tabs .data_tab_content .tab_content .icon_tab .et-pb-icon,
+.rocket_wp_tabs .data_tab_title .icon_tab span:before,
+.rocket_wp_tabs .data_tab_content .tab_content .icon_tab span:before {
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(58deg, #186ded, #28a7fb)
+}
+
+.rkt-product-iterm .et_pb_main_blurb_image {
+	background-image: linear-gradient(58deg, #186ded, #28a7fb)
+}
+
+.rkt-product-iterm .et_pb_module_header:after,
+.rkt_pricing_tables .rkt_pricing_iterm.rkt_iterm_featured .rkt_pricing_subtitle,
+.rkt-call_to_action.rkt_border-conten .et_pb_promo_description:after,
+.rkt-call_to_action.rkt_border-title h2.et_pb_module_header:after {
+	background-image: linear-gradient(to right, #186ded, #28a7fb)
+}
+
+.portfolio_wp .owl-nav [class*="owl-"] i:after {
+	-webkit-text-fill-color: #186ded
+}
+
+.portfolio_wp .owl-nav .owl-prev:hover i:before {
+	background-image: linear-gradient(to left, #186ded, #28a7fb)
+}
+
+.rkt_pricing_tables .rkt_pricing_iterm .rkt_pricing_header .rkt_price_wrap,
+.rkt_pricing_tables .rkt_pricing_iterm.rkt_iterm_featured {
+	border: solid 1px #186ded
+}
+
+.rkt_team .rkt_team_image_inner img {
+	border: solid 2px #186ded
+}
+
+.full-width_tt {
+	background-image: linear-gradient(141deg, #186ded, #28a7fb)
+}
+
+.rkt_pricing_tables .rkt_pricing_iterm .rkt_pricing_content ul li:before {
+	color: #28a7fb
+}
+
+.rkt_team .rkt_team_inner .rkt_team_skill ul li {
+	background-color: #28a7fb
+}
+
+.et_pb_rkt_project_iterm .rkt-projects-carousels .rkt_prc-info .portfolio_title,
+.et_pb_rkt_project_iterm .rkt-projects-title,
+.rkt_blogs_list .rkt_blog-iterm .rkt-group-title:after,
+.rkt_blogs_list .rkt_blog-iterm  .rkt-blog-meta .fa:before,
+.rkt_blogs_list .rkt_blog-iterm  .rkt-btn-more,
+.rkt_blogs_list .rkt-group-title .rkt-blog-title {
+	background-image: -moz-linear-gradient(0deg, #186ded 0%, #28a7fb 100%);
+	background-image: -webkit-linear-gradient(0deg, #186ded 0%, #28a7fb 100%);
+	background-image: -ms-linear-gradient(0deg, #186ded 0%, #28a7fb 100%)
+}
+
+.rktpj-layout-light .rkt-prt-header .rkt-prt-tabs li a.active {
+	color: #28a7fb;
+	border-bottom: solid 5px #28a7fb
+}
+
+.et_pb_rkt_project_iterm .rkt-projects-carousels .rkt_prc-info .portfolio_author:before {
+	background-color: #186ded
+}
+
+.et_pb_rkt_project_iterm .rkt-projects-carousels .rkt_prc-info .portfolio_author {
+	color: #28a7fb;
+	-webkit-text-fill-color: #28a7fb
+}
+
+.et_pb_rkt_project_iterm .rkt-projects-carousels .owl-nav .owl-prev:hover i:before {
+	background-image: linear-gradient(to left, #186ded, #28a7fb)
+}
+
+.et_pb_rkt_project_iterm .rkt-projects-carousels .owl-next:hover i:before {
+	background-image: linear-gradient(to right, #186ded, #28a7fb)
+}
